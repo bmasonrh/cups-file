@@ -28,6 +28,10 @@ TODO: Work our the details and document them correctly here.
 
 ## Other Stuff
 
+<<<<<<< HEAD
 Copyright :copyright: 2019 Bryan Mason
+=======
+Copyright (C) 2019 Bryan Mason
+>>>>>>> a0d7d21aab15d5dabf4a1e23495be42ef72c9aa9
 
 "CUPS" is a trademark of [Apple, Inc.](http://www.apple.com/legal/intellectual-property/trademark/appletmlist.html)  The CUPS-File project has no affiliation with the CUPS project at [http://cups.org/](http://cups.org/) or Apple, Inc.
